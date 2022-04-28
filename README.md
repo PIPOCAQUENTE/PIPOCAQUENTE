@@ -3,6 +3,6 @@
 └Program Files (x86)
 ⠀
 
-⠀⠀
-└Valorant
-└Jogador Caro🔐
+⠀⠀└Valorant
+
+  └Jogador Caro🔐
